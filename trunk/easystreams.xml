@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+    <channel>
+    <name>News</name>
+    <thumbnail>http://easytreams.net/easylogo.jpg</thumbnail>
+    <fanart>http://easystreams.net/live_tv.png</fanart>
+    <info> </info>
+    
+    <items>
+        <!--item>
+            <title>MSNBC</title>
+            <link>rtmpe://95.211.146.164/video Playpath=msnbc1 swfUrl=http://www.hqcast.tv/player/player-licensed.swf pageUrl=http://www.hqcast.tv/embed.php?live=msnbc1</link>
+            <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
+        </item-->
+        
+        <item>
+            <title>NHK World HD</title>
+            <link>rtmp://ny-1.net.fivecool.org/2e2cd/ pageUrl=http://www3.nhk.or.jp/ swfUrl=http://www3.nhk.or.jp/nhkworld/r/movie/streamhub_player_20110429.swf Playpath=nhkworldglobalhigh1.sdp</link>
+            <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjls.png</thumbnail>
+            <info>Bitrate: ~700 kbs</info>
+        </item>
+
+        <item>
+            <title>BBC World News</title>
+            <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60</link>
+            <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
+        </item>
+
+        <item>
+            <title>Bloomberg</title>
+            <link>rtmpt://cp87869.live.edgefcs.net:1935/live/ playpath=us_300@21006 pageURL=http://www.bloomberg.com/tv/ app=live swfUrl=http://cdn.gotraffic.net/v/20110210_153738//flash/BloombergMediaPlayer.swf swfVfy=true live=true</link>	
+            <thumbnail>http://www.articleslounge.com/wp-content/uploads/2010/10/BLOOMBERG-tv-LOGO.jpg</thumbnail>
+            <genre>News</genre>
+            <info>Bloomberg is the leader in global business and financial information. We give influential decision makers the data, analytics, news and insight to give them a critical edge.</info>
+        </item>
+    </items>
+
+    </channel>
+
+    <channel>
+    <name>Entertainment</name>
+    <thumbnail>http://easytreams.net/easylogo.jpg</thumbnail>
+    <fanart>http://easystreams.net/live_tv.png</fanart>
+    <info> </info>
+    <items>
+        <item>
+            <title>POKER CHANNEL</title>
+            <link>mms://91.193.244.244/pokerchannel</link>
+            <thumbnail>http://www.lyngsat-logo.com/hires/pp/poker_channel.png?__SQUARESPACE_CACHEVERSION=12808 35516186</thumbnail>
+ 
+        <item>
+            <title>oc16 Hawaii</title>
+            <link>rtmp://24.165.45.209/oc16live/ playpath=oc16 swfUrl=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ app=oc16live/ buffer=5000 live=true swfVfy=true</link>
+            <thumbnail>http://www.oc16.tv/images/oc16logo.png</thumbnail>
+            <info>oc16 is a local network from Hawaii</info>
+        </item> 
+    </items>
+
+    </channel>
+    <channel>
+    <name>Entertainment</name>
+    <thumbnail>http://easytreams.net/easylogo.jpg</thumbnail>
+    <fanart>http://easystreams.net/live_tv.png</fanart>
+    <info> </info>
+
+    <items>
+        
+        <item>
+            <title>The Country Network</title>         
+            <link>rtmp://209.107.220.92/live?_fcs_vhost=cp76676.live.edgefcs.net pageUrl=http://tcncountry.com/videos/livestream.htm swfUrl=http://player.ooyala.com/static/cacheable/57ae5b54d4a899ddac15eb16e1a5c0c7/player_v2.swf Playpath=5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 live=true timeout=60</link>
+            <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png</thumbnail>
+        </item>
+        
+        <item>
+            <title>OneHD Live</title>         
+            <link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/ playpath=onehd live=true timeout=60</link>
+            <thumbnail>http://live.1hd.ro/images/logo.png</thumbnail>
+        </item>
+
+                
+    </items>
+    
+    <subchannels>
+    
+        <subchannel>
+            <name>Streaming Radio</name>
+            <thumbnail>http://easytreams.net/easylogo.jpg</thumbnail>
+            <info>Streaming Radio</info>
+            <subitems>
+                
+                <subitem>
+                    <title>Twang City</title>
+                    <link>http://twangcity.com:8090/twang.m3u</link>
+                    <thumbnail>http://twangcity.com/twangcity.gif</thumbnail>
+                </subitem>
+
+            </subitems>
+        </subchannel>
+      </subchannels>
+    </channel>
+</channels>
+
