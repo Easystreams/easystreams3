@@ -45,11 +45,7 @@
     <fanart>http://easystreams.net/live_tv.png</fanart>
     <info> </info>
     <items>
-        <item>
-            <title>POKER CHANNEL</title>
-            <link>mms://91.193.244.244/pokerchannel</link>
-            <thumbnail>http://www.lyngsat-logo.com/hires/pp/poker_channel.png?__SQUARESPACE_CACHEVERSION=12808 35516186</thumbnail>
- 
+
         <item>
             <title>oc16 Hawaii</title>
             <link>rtmp://24.165.45.209/oc16live/ playpath=oc16 swfUrl=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ app=oc16live/ buffer=5000 live=true swfVfy=true</link>
